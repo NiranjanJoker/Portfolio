@@ -7,5 +7,5 @@ tech: ''
 company: ''
 showInProjects: true
 ---
-![Junior Cybersecurity Analyst Career Path](Junior_Cybersecurity_Analyst_Career_Path.jpg)
 
+![Junior Cybersecurity Analyst Career Path](Junior_Cybersecurity_Analyst_Career_Path.jpg)
