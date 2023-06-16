@@ -4,7 +4,7 @@ module.exports = {
     'Niranjan Surya Prasad is an upcoming Cyber Security Professional, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Niranjan Surya Prasad, Niranjan, Joker, NiranjanSuryaPrasad, Cyber Security, Blockchain, Cloud Developer, python, java, VIT, Bhopal, Chennai',
-  siteUrl: 'https://niranjan.github.io/',
+  siteUrl: 'https://niranjanjoker.github.io/Portfolio/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',

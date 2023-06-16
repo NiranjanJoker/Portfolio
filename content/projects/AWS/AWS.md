@@ -3,7 +3,7 @@ date: '2022-12-18'
 title: 'AWS Certified Cloud Practitioner'
 github: ''
 external: 'https://drive.google.com/file/d/1l9bgcolbrXCslb6AF28fDvHMeBLqFKFk/view?usp=sharing'
-tech: ''
+tech: 'Cloud Deployment'
 company: ''
 showInProjects: true
 ---
