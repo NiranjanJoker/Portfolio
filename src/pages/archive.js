@@ -205,7 +205,6 @@ export const pageQuery = graphql`
           frontmatter {
             date
             title
-            tech
             github
             external
             company
